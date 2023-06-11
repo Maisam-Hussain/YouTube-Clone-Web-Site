@@ -1,0 +1,126 @@
+*
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container
+{
+  text-align: center;
+  margin: 70px 430px 5px 430px;
+  height: 550px;
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+
+.googleIcon
+{
+  width: 80px;
+  padding: 33px 33px 0 33px;
+}
+
+.heading3
+{
+  font-size: 20px;
+  font-weight: 200;
+}
+
+.heading4
+{
+  font-weight: 500;
+}
+
+/* SignInForm Email */
+.signInForm
+{
+  font-size: 16px;
+  color: #202124;
+  margin: 29px 0px;
+  padding: 0 0 0 12px;
+  height: 50px;
+  width: 348px;
+  border: 0.2px solid grey;
+  border-radius: 5px;
+}
+
+.forgotEmail
+{
+  margin: -18px 271px 0px 0px;
+  color: #1a73e8;
+  cursor: pointer;
+}
+
+.anotherWay
+{
+  font-size: 14px;
+  color: grey;
+  margin: 45px 7px 0px 0px;
+}
+
+.learnMore
+{
+  font-size: 15px;
+  color: #1a73e8;
+  margin: 0 282px 0 0;
+  cursor: pointer;
+}
+
+.nextStep
+{
+  padding: 45px;
+}
+
+.anotherAccount
+{
+  margin: 0 164px 0 0;
+  color: #1a73e8;
+  text-decoration: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+.nextBtn
+{
+  background: #1a73e8;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 11px 24px;
+  cursor: pointer;
+}
+
+.footer
+{
+    text-align: center;
+    margin: 0px 0px 45px 0px;
+}
+
+.dropDownMenu
+{
+  background: none;
+  border: none;
+  margin: 8px 75px 0px 0px;
+  color: grey;
+}
+
+.help
+{
+  font-size: 15px;
+  text-decoration: none;
+  border: none;
+  color: grey;
+  margin: 0px 0px 0px 35px;
+}
+
+.privacy
+{
+  font-size: 15px;
+  color: grey;
+  text-decoration: none;
+  margin: 0px 0px 0px 35px;
+}
+
+.terms
+{
+  text-decoration: none;
+  color: grey;
+  font-size: 15px;
+  margin: 0px 0px 0px 35px;
+}
