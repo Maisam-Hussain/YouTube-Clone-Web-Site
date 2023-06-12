@@ -78,8 +78,3 @@ Congratulations! You have successfully signed in and added your email to the lis
 
 Note: The YouTube Clone Sign-In-Form prioritizes the privacy and security of your personal information. Rest assured that your email address will only be used for communication and updates related to the YouTube Clone platform and will not be shared with any third parties.
 
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
