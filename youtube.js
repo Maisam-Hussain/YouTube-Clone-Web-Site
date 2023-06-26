@@ -1,41 +1,49 @@
+// Targetting navbarOne
 var menuIcon = document.querySelector(".imgZero");
+
+// Targetting navbarTwo & navbarThree
 var navbarTwo = document.querySelector(".navbarTwo");
 var navbarTwoSections2 = document.querySelectorAll(".navbarTwo-sections2");
-var container = document.querySelector(".container");
 var navbarThree = document.querySelector(".navbarThree");
 var angleRight = document.querySelector(".angleRight");
 var angleLeft = document.querySelector(".angleLeft");
+// Next button scrolling in the navbarThree for recommended sections
+function scrolll()
+{
+    var left = document.querySelector('.scrollNavbarThree');
+    left.scrollBy(-350, 0);
+}
+function scrollr()
+{
+    var angleIcon = document.querySelector(".AngleIcon");
+    angleIcon.classList.toggle("angleLeftVisible1");
+    var right = document.querySelector('.scrollNavbarThree');
+    right.scrollBy(350, 0);
+}
 
-// Targeting the vidoesLists
+//Targetting Container-Section
+var container = document.querySelector(".container");
 var videosList = document.querySelector(".videosList");
-// Accessing Videos and its whole parent element
 var vid1 = document.querySelectorAll(".vid1");
 var list = document.querySelectorAll(".list");
-
-// Accessing Video Titles
 var paraTitle = document.querySelectorAll(".paraTitle");
-
-// Accessing the channels button
 var channels = document.querySelectorAll(".channels");
 var channelsLogo = document.querySelectorAll(".channelsLogo");
-
-// Accessing the recommended video titles
-var recommendedVidTitle = document.querySelectorAll(".title");
-
 // Video Stats and About Video
 var videoStats = document.querySelectorAll(".video-stats");
 var videoStat = document.querySelectorAll(".video-stat");
 var aboutVideo = document.querySelectorAll(".video-about");
 var videoDescription = document.querySelectorAll(".vidDescription");
-
 // Adding comment section
+let commentSection = document.querySelectorAll(".comment-section");
 var comment = document.querySelectorAll(".comment");
 var comment2 = document.querySelectorAll(".comment2");
 var comment3 = document.querySelectorAll(".comment3");
 
-// Adding aside videos
-var RecommendedVids = document.querySelectorAll(".RecommendedVids");
 
+// Recommended Videos Stuff
+var RecommendedVids = document.querySelectorAll(".RecommendedVids");
+var recommendedVidTitle = document.querySelectorAll(".title");
 
 
 // Adding eventListener to the Menu Button
@@ -81,7 +89,7 @@ for(let i=0; i < list.length; i++)
             list.forEach(elem => elem.classList.remove("list-Extended"));
         });
 
-        // replacinng list with videoPlaying class
+        // replacing list with videoPlaying class
         list[i].classList.remove("list");
         list[i].classList.add("videoPlaying");
         // replacing vid1 with vid1Version2 class
@@ -97,6 +105,7 @@ for(let i=0; i < list.length; i++)
         videoStats[i].style.visibility = "visible";
         videoStat[i].style.visibility = "visible";
         aboutVideo[i].style.visibility = "visible";
+        commentSection[i].style.visibility="visible";
         comment[i].style.visibility = "visible";
         comment2[i].style.visibility = "visible";
         comment3[i].style.visibility = "visible";
@@ -111,19 +120,4 @@ for(let i=0; i < list.length; i++)
             vidDescription.classList.toggle("showText");
         });        
     });  
-}
-
-
-// Next button scrolling
-function scrolll()
-{
-    var left = document.querySelector('.scrollNavbarThree');
-    left.scrollBy(-350, 0);
-}
-function scrollr()
-{
-    var angleIcon = document.querySelector(".AngleIcon");
-    angleIcon.classList.toggle("angleLeftVisible1");
-    var right = document.querySelector('.scrollNavbarThree');
-    right.scrollBy(350, 0);
 }

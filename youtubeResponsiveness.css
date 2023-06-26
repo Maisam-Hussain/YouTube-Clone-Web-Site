@@ -1,0 +1,200 @@
+/* #### Mobile Phones Portrait #### */
+  
+  /* #### Desktops #### */
+  @media screen and (min-width: 768px){
+    .navbarOne 
+    {
+        padding: 2px 390px;
+        z-index: 2;
+    }
+
+    .imgZero
+    {
+        right: 361px;
+    }
+
+    .navbarTwo
+    {
+        max-width: 610px;
+    }
+    .small-navbarTwo {
+        width: 5%;
+        z-index: 2;
+    }
+    .navbarThree {
+        width: 79.8%;
+        padding-left: 12px;
+    
+    }
+
+
+    .navbarThree-Extended
+    {
+        width: 92.8%;
+        left: -160px;
+        z-index: 1;
+    }
+
+    .compressedNavbarThree 
+    {
+        width: 28.5%;
+        margin-left: 942px;
+        padding-top: 7px;
+        position: relative;
+        top: 23px;
+        z-index: 3;
+    }
+
+
+
+    .container 
+    {
+    margin-left: 247px;
+    margin-right: 0px;
+    margin-top: 0px;
+    top: 120px;
+    overflow-x: clip;
+    }
+
+    .container-Extended
+    {
+        margin-left: 87px;
+    }
+
+    .container2
+    {
+        padding: 0 0 0 242px;
+        right: 14px;
+        top: 134px;
+    }
+
+    .videoPlaying
+    {
+
+    }
+
+    .videosList-Extended
+    {
+        width: 1236px;
+    }
+    .list-Extended
+    {
+        width: 349px;
+    }
+}
+
+
+/* For Tablets */
+@media only screen and (max-width: 767px) and (min-width: 200px){
+    .navbarOne 
+    {
+        padding: 4px 614px;
+        z-index: 2;
+    }
+    .imgZero
+    {
+        right: 582px;
+    }
+    .textAreaForSearch
+    {
+        font-size: 21px;
+        padding: 8px;
+        padding-right: 73px;
+        left: -145px;
+        top: 29px;
+    }
+    .btn
+    {
+        left: 218px;
+        top: 49px;
+    }
+    .imgSecond
+    {
+        width: 20px;
+    }
+    .imgThird
+    {
+        left: 240px;
+        top: 67.5px;
+    }
+    .imgFour
+    {
+        top: 33px;
+        left: 288px;
+    }
+    .imgFive
+    {
+        left: 343px;
+        top: 30px;
+    }
+    .logIn
+    {
+        left: 30rem;
+        top: 26px;
+    }
+    .navbarTwo
+    {
+        max-width: 610px;
+    }
+    .small-navbarTwo {
+        width: 5%;
+        z-index: 2;
+    }
+    .navbarThree {
+        top: 54px;
+        width: 80%;
+        padding-left: 20px;
+    }
+    .forSameSpacing-child
+    {
+        font-size: 21px;
+    }
+    .navbarThree-Extended
+    {
+        width: 85.8%;
+        left: -114px;
+        z-index: 1;
+    }
+    .compressedNavbarThree 
+    {
+        width: 28.5%;
+        margin-left: 942px;
+        padding-top: 7px;
+        position: relative;
+        top: 23px;
+        z-index: 3;
+    }
+    .container 
+    {
+        top: 94px;
+        overflow-x: clip;
+    }
+    .paraTitle
+    {
+        font-size: 25px;
+    }
+    .channels
+    {
+        bottom: 79px;
+    }
+    .channel-name {
+        font-size: 21px;
+    }
+    .views
+    {
+        font-size: 21px;
+    }
+    .videosList-Extended
+    {
+        width: 1000px;
+    }
+    .list-Extended
+    {
+        width: 349px;
+    }
+    .list
+    {
+        padding: 78px 52px;
+        width: 410px;
+    }
+}
