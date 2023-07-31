@@ -82,4 +82,5 @@ Note: The YouTube Clone Sign-In-Form prioritizes the privacy and security of you
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Alt Text](./screenshots/screenshot1.png)
+
