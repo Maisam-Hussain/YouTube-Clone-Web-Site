@@ -82,5 +82,5 @@ Note: The YouTube Clone Sign-In-Form prioritizes the privacy and security of you
 
 ## Screenshots
 
-![Alt Text](./screenshots/screenshot1.png)
+![(./screenshots/screenshot1.png)]
 
