@@ -82,5 +82,18 @@ Note: The YouTube Clone Sign-In-Form prioritizes the privacy and security of you
 
 ## Screenshots
 
-![third responsive](./screenshots/screenshot1.png)
+!First Look of Website[https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/First%20Look%20of%20YouTube%20Cloned%20Layout.png]
+
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries, please contact [hussainmaisam62@gmail.com].
 
