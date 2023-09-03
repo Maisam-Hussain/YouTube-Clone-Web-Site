@@ -90,7 +90,7 @@ Note: The YouTube Clone Sign-In-Form prioritizes the privacy and security of you
 6. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Sixth%20Shot%20of%20YouTube%20Cloned%20Layout.png]
 7. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Seventh%20Shot%20of%20YouTube%20Cloned%20Layout.png]
 8. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Eighth%20Shot%20of%20YouTube%20Cloned%20Layout.png]
-
+## Screenshots featuring Responsiveness
 9. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive1.png]
 10. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive2.png]
 11. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive3.png]
