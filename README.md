@@ -18,33 +18,6 @@ Join us now and embark on a journey of endless entertainment and connectivity. W
 
 
 
-## Sign_In_Form: Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Maisam-Hussain/YouTube-SignIn-Form
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-
 ## Demo
 
 YouTube Clone Sign-In-Form Demo
@@ -79,7 +52,6 @@ Congratulations! You have successfully signed in and added your email to the lis
 Note: The YouTube Clone Sign-In-Form prioritizes the privacy and security of your personal information. Rest assured that your email address will only be used for communication and updates related to the YouTube Clone platform and will not be shared with any third parties.
 
 
-
 ## Screenshots
 
 1. First Look of Website[https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/First%20Look%20of%20YouTube%20Cloned%20Layout.png]
@@ -97,6 +69,34 @@ Note: The YouTube Clone Sign-In-Form prioritizes the privacy and security of you
 12. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive4.png]
 13. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive5ForIphone12.png]
 14. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive6ForMobileDevices.png]
+
+
+## YouTube-Cloned Signup Form: Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Maisam-Hussain/YouTube-SignIn-Form
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
 
 
 ## Contributing
