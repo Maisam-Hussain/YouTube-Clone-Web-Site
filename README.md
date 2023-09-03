@@ -82,8 +82,21 @@ Note: The YouTube Clone Sign-In-Form prioritizes the privacy and security of you
 
 ## Screenshots
 
-!First Look of Website[https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/First%20Look%20of%20YouTube%20Cloned%20Layout.png]
-!2nd:[screenshots/Second%20Shot%20of%20YouTube%20Cloned%20Layout.png]
+1. First Look of Website[https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/First%20Look%20of%20YouTube%20Cloned%20Layout.png]
+2. [[screenshots/Second%20Shot%20of%20YouTube%20Cloned%20Layout.png](https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Second%20Shot%20of%20YouTube%20Cloned%20Layout.png)]
+3. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Third%20Shot%20of%20YouTube%20Cloned%20Layout.png]
+4. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Fourth%20Shot%20of%20YouTube%20Cloned%20Layout.png]
+5. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Fifth%20Shot%20of%20YouTube%20Cloned%20Layout.png]
+6. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Sixth%20Shot%20of%20YouTube%20Cloned%20Layout.png]
+7. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Seventh%20Shot%20of%20YouTube%20Cloned%20Layout.png]
+8. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Eighth%20Shot%20of%20YouTube%20Cloned%20Layout.png]
+
+9. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive1.png]
+10. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive2.png]
+11. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive3.png]
+12. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive4.png]
+13. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive5ForIphone12.png]
+14. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive6ForMobileDevices.png]
 
 
 ## Contributing
