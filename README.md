@@ -83,7 +83,7 @@ Note: The YouTube Clone Sign-In-Form prioritizes the privacy and security of you
 ## Screenshots
 
 !First Look of Website[https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/First%20Look%20of%20YouTube%20Cloned%20Layout.png]
-2nd:[/screenshots/Second%20Shot%20of%20YouTube%20Cloned%20Layout.png]
+!2nd:[screenshots/Second%20Shot%20of%20YouTube%20Cloned%20Layout.png]
 
 
 ## Contributing
