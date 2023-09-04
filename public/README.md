@@ -18,33 +18,6 @@ Join us now and embark on a journey of endless entertainment and connectivity. W
 
 
 
-## Sign_In_Form: Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Maisam-Hussain/YouTube-SignIn-Form
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-
 ## Demo
 
 YouTube Clone Sign-In-Form Demo
@@ -79,7 +52,62 @@ Congratulations! You have successfully signed in and added your email to the lis
 Note: The YouTube Clone Sign-In-Form prioritizes the privacy and security of your personal information. Rest assured that your email address will only be used for communication and updates related to the YouTube Clone platform and will not be shared with any third parties.
 
 
-
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+1. First Look of Website[https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/First%20Look%20of%20YouTube%20Cloned%20Layout.png]
+2. [[screenshots/Second%20Shot%20of%20YouTube%20Cloned%20Layout.png](https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Second%20Shot%20of%20YouTube%20Cloned%20Layout.png)]
+3. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Third%20Shot%20of%20YouTube%20Cloned%20Layout.png]
+4. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Fourth%20Shot%20of%20YouTube%20Cloned%20Layout.png]
+5. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Fifth%20Shot%20of%20YouTube%20Cloned%20Layout.png]
+6. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Sixth%20Shot%20of%20YouTube%20Cloned%20Layout.png]
+7. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Seventh%20Shot%20of%20YouTube%20Cloned%20Layout.png]
+8. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Eighth%20Shot%20of%20YouTube%20Cloned%20Layout.png]
+## Screenshots featuring Responsiveness
+9. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive1.png]
+10. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive2.png]
+11. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive3.png]
+12. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive4.png]
+13. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive5ForIphone12.png]
+14. [https://github.com/Maisam-Hussain/YouTube-Clone-Web-Site/blob/master/screenshots/Responsive6ForMobileDevices.png]
+
+
+## YouTube-Cloned Signup Form: Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Maisam-Hussain/YouTube-SignIn-Form
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries, please contact [hussainmaisam62@gmail.com].
+
