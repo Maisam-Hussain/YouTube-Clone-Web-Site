@@ -1,0 +1,13 @@
+{
+  "name": "youtubetemplate",
+  "version": "1.0.0",
+  "description": "Introducing \"YourTube Clone\" - A Feature-Rich YouTube-like Website",
+  "main": "youtube.js",
+  "scripts": {
+    "start": "youtube.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
